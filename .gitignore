@@ -1,0 +1,14 @@
+# Build directory
+/build
+
+# clangd
+.cache/
+
+# CMake auto generated files
+src/config.h
+
+# Documentation
+docs/
+
+# Visual Studio Code
+.vscode/
